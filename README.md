@@ -1,9 +1,9 @@
-# Line-of-arrow v1.0.1
+# Line of arrow v1.0.1
 
 <br />
 <a href="https://zsoltkiraly.com/developments/line-of-arrow" target="_blank">DEMO PAGE</a><br /><br />
 
-<img src="http://zsoltkiraly.com/developments/_images/line-of-arrow-001.jpg">
+<img src="https://zsoltkiraly.com/developments/_images/line-of-arrow-001.jpg">
 
 <br />
 
